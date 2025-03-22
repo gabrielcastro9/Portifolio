@@ -203,7 +203,7 @@ function projetos(section) {
           <div class="img-wrapper">
             <img src="assets/images/Figma.png" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/gabrielcastro9" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/lucyanovidio/portifolio" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -217,10 +217,26 @@ function projetos(section) {
                   />
                 </svg>
               </a>
+              <a href="https://lucyanovidio.vercel.app" target="_blank" title="Ver Projeto">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path fill="none" d="M0 0h24v24H0z" />
+                  <path
+                    d="M12 3c5.392 0 9.878 3.88 10.819 9-.94 5.12-5.427 9-10.819 9-5.392 0-9.878-3.88-10.819-9C2.121 6.88 6.608 3 12 3zm0 16a9.005 9.005 0 0 0 8.777-7 9.005 9.005 0 0 0-17.554 0A9.005 9.005 0 0 0 12 19zm0-2.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9zm0-2a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"
+                  />
+                </svg>
+              </a>
             </div>
           </div>
-          <p>layout moderno, intuitivo e visualmente atraente, o menu foi projetado para oferecer uma experiência de usuário fluida e envolvente.</p>
-          <p>Figma</p>
+          <p>
+            O presente site que desenvolvi para apresentar a mim e meus
+            projetos.
+          </p>
+          <p>HTML - CSS - JS</p>
         </div>
         <div></div>
         <div class="card">
